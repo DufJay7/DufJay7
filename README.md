@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Seja bem vindo, me chamo Daniel de Jesus.
 
-<!--
-**DufJay7/DufJay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Atualmente sou estudante de Bacharelado em Ciência da Computação na UNIGRANDE e técnico em Desenvolvimento de Sistemas pelo SENAI. Complemento minha formação com os cursos da plataforma B7Web. Meu objetivo atual é conseguir uma oportunidade no mercado de tecnologia.
+  Acompanhar minha trajetória e evolução nessa jornada!
 
-Here are some ideas to get you started:
+  ⏳ Desenvolvedor em Formação 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<div style="display: inline_block"><br>
+  <p>💻 Stack que estou estudando atualmente</p>
+  <img align="center" alt="Duf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Duf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Duf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Duf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
