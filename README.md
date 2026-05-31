@@ -13,3 +13,7 @@
   <img align="center" alt="Duf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Duf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+[![DufJay7's GitHub stats](https://vercel.app)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+
+
