@@ -13,6 +13,6 @@
   <img align="center" alt="Duf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Duf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DufJay7&layout=compact&theme=dark)
 
 
