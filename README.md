@@ -14,6 +14,6 @@
   <img align="center" alt="Duf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DufJay7&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DufJay7&layout=compact&theme=dark&langs_count=6" />
 
 
