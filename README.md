@@ -20,4 +20,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >
 </div>
 <br>
+
+<b>Estáticas do meu Github:</b>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DufJay7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+
           
