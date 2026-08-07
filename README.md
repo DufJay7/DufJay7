@@ -16,7 +16,7 @@
   <img align="center" alt="Duf-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Duf-Git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img alig="center" alt="Duf-React" height="30" width="40"
+  <img align="center" alt="Duf-React" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >
 </div>
 <br>
