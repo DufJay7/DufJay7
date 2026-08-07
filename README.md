@@ -21,9 +21,4 @@
 </div>
 <br>
 
-<b>Estáticas do meu Github:</b>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DufJay7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-
           
